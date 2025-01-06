@@ -3,11 +3,12 @@
 ## 실행
 1. `node server.js` 터미널에 입력
 
-2. localhost:8080 접속
+2. `localhost:8080` 접속
 
 ## 기술 스택
 ### 서버
 Node.js
+
 Express
 
 ### 프론트
