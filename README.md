@@ -15,7 +15,7 @@ Express
 HTML (index.html)
 
 ### 웹소켓 라이브러리
-ws (WebSocket)
+WS (WebSocket)
 
 ## 기능
 `메세지 보내기` 버튼 클릭 시, "ㅎㅇ" 메세지가 서버로 보내지고 서버 쪽 console 에 찍힘
